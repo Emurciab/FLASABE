@@ -13,7 +13,7 @@
     <a href="https://github.com/Emurciab/FLASABE.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#usage">View Demo</a>
+    <a href="https://youtu.be/WE8JMwTLO60"> Youtube video</a>
     ·
     <a href="https://github.com/Emurciab/FLASABE.git">Report Bug</a>
     ·
@@ -53,8 +53,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-_For a video with explaining the scope of the  project and more in detail information please visit [here](https://youtu.be/WE8JMwTLO60)_
 
 
 Accurate estimations of soil water content are needed to create decision-support systems for irrigation management in agriculture. Hybrid approaches combining signal preprocessing techniques and ensemble learning algorithms could provide the necessary accuracy for a reliable machine learning (ML) forecast system.
